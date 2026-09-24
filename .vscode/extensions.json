@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "golang.go",
+    "rust-lang.rust-analyzer",
+    "ms-vscode.powershell",
+    "timonwong.shellcheck",
+    "foxundermoon.shell-format"
+  ]
+}

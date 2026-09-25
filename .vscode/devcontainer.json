@@ -44,6 +44,7 @@
         "charliermarsh.ruff",
         "ms-vscode.powershell",
         "timonwong.shellcheck",
+        "foxundermoon.shell-format",
         "mkhl.shfmt"
       ],
       "settings": {
